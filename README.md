@@ -1,1 +1,3 @@
 # gradientCube
+
+![Screenshot](screenshot.png)
